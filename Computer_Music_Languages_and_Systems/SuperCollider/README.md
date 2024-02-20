@@ -15,7 +15,7 @@
   the most part.
 </p>
 <p align="center">
-  <img src="/Images/gui.jpg" width=100% margin-top="15%">
+  <img src="/Computer_Music_Languages_and_Systems/SuperCollider/Images/gui.jpg" width=100% margin-top="15%">
 </p>
 
 <p>
