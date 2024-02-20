@@ -4,7 +4,7 @@
 The implemented computer music system allows the performer to manage the processing his/her voice undergoes in real time via the simple motion of the hands. The architecture of such system involves an interaction system unit, represented by a Microsoft Kinect sensor, a computer music unit consisting of a SuperCollider script and a graphical feedback unit, i.e. a GUI implemented via a Processing script.
   
 <p align="center">
-  <img src="/imgs/architecture.jpg" width=65% margin-top="15%">
+  <img src="/Computer_Music_Languages_and_Systems/Interaction_design_(processing-touchdesigner-supercollider)/imgs/architecture.jpg" width=65% margin-top="15%">
 </p>
 
 ## Communication Protocol
@@ -16,7 +16,7 @@ This is done by using a color map and a depth map, captured respectively by an R
 The data collected by the Kinect is processed by TouchDesigner before being sent via OSC messages to SuperCollider and Processing.
 In particular, hands position are normalized with respect to the arm length and the position of the user, and are then mapped in order to obtain smooth values between 0 and 1. 
 <p align="center">
-  <img src="/imgs/kinect.JPG" width=65% margin-top="15%">
+  <img src="/Computer_Music_Languages_and_Systems/Interaction_design_(processing-touchdesigner-supercollider)/imgs/kinect.JPG" width=65% margin-top="15%">
 </p>
 
 ## Computer Music Unit
@@ -34,7 +34,7 @@ Finally two boxes are responsible of choosing the effects.
 Also, a pop-up has been added to note the performer when the loop is recording, playing or being overdubbed.
 
 <p align="center">
-  <img src="/imgs/GUI_imag.png" width=65% margin-top="15%">
+  <img src="/Computer_Music_Languages_and_Systems/Interaction_design_(processing-touchdesigner-supercollider)/imgs/GUI_imag.png" width=65% margin-top="15%">
 </p>
 
 ### Group members
