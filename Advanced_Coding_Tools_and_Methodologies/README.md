@@ -1,3 +1,6 @@
+Original repo at: https://github.com/albertodoimo/ACTAM
+
+
 # THE SOUND OF SPACE
 
 This project was developed in the context of the "**_Advanced Coding Tools and Methodologies_**" course held at [Politecnico di Milano](https://www.polimi.it/) for the Master's Degree in [Music and Acoustic Engineering](https://suono.polimi.it/). The task was to design and implement a musical web application based on the `HTML`/`CSS`/`JavaScript` framework.
