@@ -8,8 +8,10 @@ Here's a list of the tools employed in the development:
 * COMSOL
 * Javascript, HTML, CSS
 * JUCE
+* Processing
 * Supercollider
 * Touchdesigner
+* Latex
 
 In the following section, you’ll find a detailed overview of my academic coursework, including a focus on each course and its topics.
 
