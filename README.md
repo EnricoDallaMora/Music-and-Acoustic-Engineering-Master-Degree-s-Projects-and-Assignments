@@ -13,18 +13,30 @@ Here's a list of the tools employed in the development:
 
 In the following section, you’ll find a detailed overview of my academic coursework, including a focus on each course and its topics.
 
-# ACADEMIC STUDIES
-
-- [Music and Acoustic Engineering Master Degree](#music-and-acoustic-engineering-master-degree)
-
-   
-- [Energy Engineering Bachelor](#energy-engineering-bachelor)
-
+<br>
+<br>
 
 
 
 ##
-# MUSIC AND ACOUSTIC ENGINEERING MASTER DEGREE 
+# ACADEMIC STUDIES
+
+- [Music and Acoustic Engineering Master Degree](#music-and-acoustic-engineering-master-degree--)
+
+   
+- [Energy Engineering Bachelor](#energy-engineering-bachelor---)
+
+
+<br>
+<br>
+<br>
+<br>
+
+##
+# MUSIC AND ACOUSTIC ENGINEERING MASTER DEGREE &nbsp; <img width="17%" src="https://github.com/user-attachments/assets/18560465-b5ac-45bd-9e85-d938b83e85d6">
+
+
+
 
 
 
@@ -32,36 +44,78 @@ In the following section, you’ll find a detailed overview of my academic cours
 
 ### Courses:
 
-  - [Electronics and Electroacoustics for Sound Engineering](#electronics-and-electroacoustics-for-sound-engineering)
-  - [Sound Analysis, Synthesis and Processing Digital Audio Analysis and Processing Sound Synthesis and Spatial Processing](#sound-analysis-synthesis-and-processing-digital-audio-analysis-and-processing-sound-synthesis-and-spatial-processing)
+- Digital Signal Processing:
+  - [Sound Analysis, Synthesis and Processing: Digital Audio Analysis and Processing Sound Synthesis and Spatial Processing](#sound-analysis-synthesis-and-processing-digital-audio-analysis-and-processing-sound-synthesis-and-spatial-processing)
+  - [Signals and Systems](#signals-and-systems)
+- Acoustics:
+  - [Fundamentals of Acoustics](#fundamentals-of-acoustics)
+  - [Vibration Analysis and Vibroacoustics](#vibration-analysis-and-vibroacoustics)
   - [Musical Acoustics](#musical-acoustics)
   - [Room Acoustics](#room-acoustics)
+- Creative Coding and Algorithmic Composition:
   - [Creative Programming and Computing](#creative-programming-and-computing)
-  - [Signals and Systems](#signals-and-systems)
   - [Computer Music - Languages and Systems](#computer-music---languages-and-systems)
-  - [Vibration Analysis and Vibroacoustics](#vibration-analysis-and-vibroacoustics)
   - [Advanced Coding Tools and Methodologies](#advanced-coding-tools-and-methodologies)
-  - [Fundamentals of Acoustics](#fundamentals-of-acoustics)
   - [Computer Music - Representations and Models](#computer-music---representations-and-models)
+- Electronics:
+  - [Electronics and Electroacoustics for Sound Engineering](#electronics-and-electroacoustics-for-sound-engineering)
+- Computer science and programming:
   - [Databases 1](#databases-1)
   - [Software Engineering](#software-engineering)
 
 ##
-## ELECTRONICS AND ELECTROACOUSTICS FOR SOUND ENGINEERING
-
-The aim of the course is to provide an engineering knowledge on transducers, devices, electronic circuits and systems used for the acquisition, processing, recording and broadcasting of audio signals. The electroacoustic characteristics of the microphones, the properties of the semiconductor devices used in the audio circuits will be studied and the main amplification and processing stages of the acoustic signals will be analyzed. The electronic noise will be studied and the problems related to low noise and minimal distortion electronic circuits will be dealt with. The architecture of a professional console will be studied in detail. The main configurations of the power output stages will be presented by analyzing their static and dynamic characteristics.
-
-[Course website](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2024&k_cf=225&k_corso_la=263&k_indir=MCR&codDescr=052831&lang=IT&semestre=2&anno_corso=2&idItemOfferta=170226&idRiga=311987)
-
-<br>
-<br>
-
+# DIGITAL SIGNAL PROCESSING
 ##
 ## SOUND ANALYSIS, SYNTHESIS AND PROCESSING: DIGITAL AUDIO ANALYSIS AND PROCESSING, SOUND SYNTHESIS AND SPATIAL PROCESSING
 
 This course covers a wide range of advanced topics of digital signal processing for the analysis of audio signals. Using signal processing concepts and tools such as windowing, overlap-and-add, Short-Time Fourier Transforms, uniform and iterated filterbanks, polyphase processing, time-space processing and statistical signal processing, we approach a variety of problems that are typical of sound analysis applications such as feature extraction and sound annotation, digital audio restoration, acoustic beamforming, source separation and localization. The course also addresses topics on digital signal processing for the synthesis/generation of timbres and sounds; for sound spatialization/reverberation; and for a high-end rendering of audio signals. Using signal processing concepts and tools such as Short-Time Fourier Transforms, uniform and iterated filterbanks, polyphase processing and space-time processing, we discuss a variety of applications such as musical sound synthesis, digital audio enhancement and improvement, multi-channel processing, acoustic beamforming and projection using speaker arrays, active acoustic conditioning, wavefield synthesis and holo-acoustics.
 
 [Course website](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2021&k_cf=225&k_corso_la=263&k_indir=MMI&codDescr=052820&lang=IT&semestre=2&anno_corso=1&idItemOfferta=155047&idRiga=267911)
+
+<br>
+<br>
+
+
+## 
+## SIGNALS AND SYSTEMS
+
+This course focuses on the analysis of signals (sound, acoustic pressure, voltage, images, etc.) and the systems that act on them (acoustic resonators and environments, circuits, mechanical devices, etc.). We concentrate on the Fourier Transform and Linear-Time Invariant Systems, providing the fundamental mathematical tools for sampling, manipulating, preserving, and interpreting information signals.
+The course is divided in two modules. Module 1 is dedicated to continuous-time (analog) signals and systems. Module 2 focuses on discrete-time (digital) signals and systems.
+
+[Course website](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2024&k_cf=225&k_corso_la=263&k_indir=MCR&codDescr=052845&lang=IT&semestre=2&anno_corso=1&idItemOfferta=170219&idRiga=311979)
+
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+##
+# ACOUSTICS
+##	
+## FUNDAMENTALS OF ACOUSTICS
+
+The propagation of sounds and vibrations in fluids and solids is at the basis of most of the phenomena related to musical instruments, building and environmental acoustics, noise and vibration from machinery and industrial products. In this course, we will cover the fundamentals of acoustics, starting from the basic description of oscillations and wave motion, the normal modes of strings and membranes, to the propagation of sound in gas media and the description of reflection, transmission, absorption, and scattering phenomena during sound propagation.
+
+[Course website](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2024&k_cf=225&k_corso_la=263&k_indir=MCR&codDescr=052843&lang=IT&semestre=1&anno_corso=1&idItemOfferta=170217&idRiga=311958)
+
+
+<br>
+<br>
+
+##
+## VIBRATION ANALYSIS AND VIBROACOUSTICS
+
+The aim of the course is to introduce students to the fundamentals of vibration theory of lumped-parameter systems and to the vibroacoustic analysis of continuous structures. Both analytical/numerical models and experimental techniques are covered and particular attention is given to examples and applications, especially in the field of string musical instruments. Each topic is treated theoretically and pratically, through traditional lectures and experimental/computer labs.
+This course provides foundational knowledge on the theoretical and practical aspects of mechanical system vibrations. The first part covers free and forced vibrations in a one-degree-of-freedom linear system. The analysis then extends to two- and N-degree-of-freedom linear systems. The course is heavily focused on frequency domain modeling and the formulation of principal coordinates, based on the concept of natural modes of vibration.
+The second part of the course extends the content introduced in the first part to continuous systems and focuses on the structural elements of stringed musical instruments, analyzing how these elements vibrate and radiate sound. The first part is dedicated to the analysis of vibrations in structural elements that can be modeled as one- or two-dimensional continuous systems. It provides the knowledge needed to understand the physical phenomena related to the propagation of acoustic waves and the sound emission of a vibrating structure. In the final part of the course, special attention is given to experimental techniques and numerical methods used for vibroacoustic analysis of string instruments.
+
+[Course website](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2024&k_cf=225&k_corso_la=263&k_indir=MCR&codDescr=055673&lang=IT&semestre=2&anno_corso=1&idItemOfferta=170219&idRiga=311981)
 
 <br>
 <br>
@@ -94,6 +148,19 @@ This course is aimed at acquiring the necessary knowledge in acoustics for the d
 <br>
 <br>
 
+
+
+
+
+
+
+
+
+
+
+
+##
+# CREATIVE CODING AND ALGORITHMIC COMPOSITION
 ##
 ## CREATIVE PROGRAMMING AND COMPUTING
 
@@ -104,16 +171,6 @@ The goal of this course is to provide foundational knowledge and skills needed t
 <br>
 <br>
 
-## 
-## SIGNALS AND SYSTEMS
-
-This course focuses on the analysis of signals (sound, acoustic pressure, voltage, images, etc.) and the systems that act on them (acoustic resonators and environments, circuits, mechanical devices, etc.). We concentrate on the Fourier Transform and Linear-Time Invariant Systems, providing the fundamental mathematical tools for sampling, manipulating, preserving, and interpreting information signals.
-The course is divided in two modules. Module 1 is dedicated to continuous-time (analog) signals and systems. Module 2 focuses on discrete-time (digital) signals and systems.
-
-[Course website](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2024&k_cf=225&k_corso_la=263&k_indir=MCR&codDescr=052845&lang=IT&semestre=2&anno_corso=1&idItemOfferta=170219&idRiga=311979)
-
-<br>
-<br>
 
 ##
 ## COMPUTER MUSIC - LANGUAGES AND SYSTEMS
@@ -125,17 +182,6 @@ This course covers a wide range of fundamental topics on computer music, with pa
 <br>
 <br>
 
-##
-## VIBRATION ANALYSIS AND VIBROACOUSTICS
-
-The aim of the course is to introduce students to the fundamentals of vibration theory of lumped-parameter systems and to the vibroacoustic analysis of continuous structures. Both analytical/numerical models and experimental techniques are covered and particular attention is given to examples and applications, especially in the field of string musical instruments. Each topic is treated theoretically and pratically, through traditional lectures and experimental/computer labs.
-This course provides foundational knowledge on the theoretical and practical aspects of mechanical system vibrations. The first part covers free and forced vibrations in a one-degree-of-freedom linear system. The analysis then extends to two- and N-degree-of-freedom linear systems. The course is heavily focused on frequency domain modeling and the formulation of principal coordinates, based on the concept of natural modes of vibration.
-The second part of the course extends the content introduced in the first part to continuous systems and focuses on the structural elements of stringed musical instruments, analyzing how these elements vibrate and radiate sound. The first part is dedicated to the analysis of vibrations in structural elements that can be modeled as one- or two-dimensional continuous systems. It provides the knowledge needed to understand the physical phenomena related to the propagation of acoustic waves and the sound emission of a vibrating structure. In the final part of the course, special attention is given to experimental techniques and numerical methods used for vibroacoustic analysis of string instruments.
-
-[Course website](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2024&k_cf=225&k_corso_la=263&k_indir=MCR&codDescr=055673&lang=IT&semestre=2&anno_corso=1&idItemOfferta=170219&idRiga=311981)
-
-<br>
-<br>
 
 ##
 ## ADVANCED CODING TOOLS AND METHODOLOGIES
@@ -148,16 +194,7 @@ Programming languages, which are the elective tools for designing and implementi
 <br>
 <br>
 
-##	
-## FUNDAMENTALS OF ACOUSTICS
 
-The propagation of sounds and vibrations in fluids and solids is at the basis of most of the phenomena related to musical instruments, building and environmental acoustics, noise and vibration from machinery and industrial products. In this course, we will cover the fundamentals of acoustics, starting from the basic description of oscillations and wave motion, the normal modes of strings and membranes, to the propagation of sound in gas media and the description of reflection, transmission, absorption, and scattering phenomena during sound propagation.
-
-[Course website](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2024&k_cf=225&k_corso_la=263&k_indir=MCR&codDescr=052843&lang=IT&semestre=1&anno_corso=1&idItemOfferta=170217&idRiga=311958)
-
-
-<br>
-<br>
 
 ##	
 ## COMPUTER MUSIC - REPRESENTATIONS AND MODELS
@@ -170,7 +207,33 @@ Rhythm and tonality are an integral part of all forms of interpersonal communica
 
 <br>
 <br>
-	
+
+
+
+
+
+
+
+
+##
+# ELECTRONICS
+##
+## ELECTRONICS AND ELECTROACOUSTICS FOR SOUND ENGINEERING
+
+The aim of the course is to provide an engineering knowledge on transducers, devices, electronic circuits and systems used for the acquisition, processing, recording and broadcasting of audio signals. The electroacoustic characteristics of the microphones, the properties of the semiconductor devices used in the audio circuits will be studied and the main amplification and processing stages of the acoustic signals will be analyzed. The electronic noise will be studied and the problems related to low noise and minimal distortion electronic circuits will be dealt with. The architecture of a professional console will be studied in detail. The main configurations of the power output stages will be presented by analyzing their static and dynamic characteristics.
+
+[Course website](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2024&k_cf=225&k_corso_la=263&k_indir=MCR&codDescr=052831&lang=IT&semestre=2&anno_corso=2&idItemOfferta=170226&idRiga=311987)
+
+<br>
+<br>
+
+
+
+
+
+
+##
+# COMPUTER SCIENCE AND PROGRAMMING
 ##
 ## DATABASES 1
 
@@ -192,9 +255,15 @@ Software Design: Object-oriented design and the Java language. Class specificati
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 ##
-# ENERGY ENGINEERING BACHELOR
+# ENERGY ENGINEERING BACHELOR &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img width="20%" src="https://github.com/user-attachments/assets/dd508814-46a1-49d8-81dd-cd20ad7f698b">
+
+
 
 [Energy Engineering Bachelor Website](https://www.ingegneria.unipd.it/offerta-didattica/corsi-di-laurea?tipo=L&ordinamento=2019&key=IN0515)
 
