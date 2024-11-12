@@ -1,3 +1,18 @@
+
+This repository showcases a collection of projects developed during my Master’s Degree in Music and Acoustic Engineering. The projects range from creative explorations, like [Advanced Coding Tools and Methodologies](https://github.com/EnricoDallaMora/Music-and-Acoustic-Engineering-Master-Degree-Projects-and-Assignments/tree/main/Advanced_Coding_Tools_and_Methodologies) and [Creative Programming and Computing](https://github.com/EnricoDallaMora/CPAC-23-24-GROUP-7), to more technical applications in DSP for [Sound Analysis, Synthesis and Processing](https://github.com/EnricoDallaMora/Music-and-Acoustic-Engineering-Master-Degree-Projects-and-Assignments/tree/main/Sound_analysis_synthesis_and_processing) and acoustic modeling and simulation in [Musical Acoustics](https://github.com/EnricoDallaMora/Music-and-Acoustic-Engineering-Master-Degree-Projects-and-Assignments/tree/main/Musical_Acoustics). Together, these projects cover a variety of topics, programming languages, and software tools.
+
+Here's a list of the tools employed in the development:
+
+* Python
+* Matlab
+* COMSOL
+* Javascript, HTML, CSS
+* JUCE
+* Supercollider
+* Touchdesigner
+
+In the following section, you’ll find a detailed overview of my academic coursework, including a focus on each course and its topics.
+
 # ACADEMIC STUDIES
 
 - [Music and Acoustic Engineering Master Degree](#music-and-acoustic-engineering-master-degree)
@@ -6,15 +21,19 @@
 - [Energy Engineering Bachelor](#energy-engineering-bachelor)
 
 
+
+
 ##
-# MUSIC AND ACOUSTIC ENGINEERING MASTER DEGREE
+# MUSIC AND ACOUSTIC ENGINEERING MASTER DEGREE 
+
+
 
 [Music and Acoustic Engineering Master Degree Website](https://www.polimi.it/formazione/corsi-di-laurea-magistrale/dettaglio-corso/music-and-acoustic-engineering)
 
 ### Courses:
 
   - [Electronics and Electroacoustics for Sound Engineering](#electronics-and-electroacoustics-for-sound-engineering)
-  - [Sound Analysis, Synthesis and Processing: Digital Audio Analysis and Processing, Sound Synthesis and Spatial Processing](#sound-analysis,-synthesis-and-processing-digital-audio-analysis-and-processing,-sound-synthesis-and-spatial-processing)
+  - [Sound Analysis, Synthesis and Processing Digital Audio Analysis and Processing Sound Synthesis and Spatial Processing](#sound-analysis-synthesis-and-processing-digital-audio-analysis-and-processing-sound-synthesis-and-spatial-processing)
   - [Musical Acoustics](#musical-acoustics)
   - [Room Acoustics](#room-acoustics)
   - [Creative Programming and Computing](#creative-programming-and-computing)
@@ -40,7 +59,7 @@ The aim of the course is to provide an engineering knowledge on transducers, dev
 ##
 ## SOUND ANALYSIS, SYNTHESIS AND PROCESSING: DIGITAL AUDIO ANALYSIS AND PROCESSING, SOUND SYNTHESIS AND SPATIAL PROCESSING
 
-This course covers a wide range of advanced topics of digital signal processing for the analysis of audio signals. Using signal processing concepts and tools such as windowing, overlap-and-add, Short-Time Fourier Transforms, uniform and iterated filterbanks, polyphase processing, time-space processing and statistical signal processing, we approach a variety of problems that are typical of sound analysis applications such as feature extraction and sound annotation, digital audio restoration, acoustic beamforming, source separation and localization. The course also addresses topics on digital signal processing for the synthesis/generation of timbres and sounds; for sound spatialization/reverberation; and for a high-end rendering of audio signals. Using signal processing concepts and tools such as Short-Time Fourier Transforms, uniform and iterated filterbanks, polyphase processing and space-time processing, we discuss a variety of applications such as musical sound synthesis, digital audio enhancement and improvement, multi-channel processing, acoustic beamforming and projection using speaker arrays, active acoustic conditioning, wavefield synthesis and holo-acoustics
+This course covers a wide range of advanced topics of digital signal processing for the analysis of audio signals. Using signal processing concepts and tools such as windowing, overlap-and-add, Short-Time Fourier Transforms, uniform and iterated filterbanks, polyphase processing, time-space processing and statistical signal processing, we approach a variety of problems that are typical of sound analysis applications such as feature extraction and sound annotation, digital audio restoration, acoustic beamforming, source separation and localization. The course also addresses topics on digital signal processing for the synthesis/generation of timbres and sounds; for sound spatialization/reverberation; and for a high-end rendering of audio signals. Using signal processing concepts and tools such as Short-Time Fourier Transforms, uniform and iterated filterbanks, polyphase processing and space-time processing, we discuss a variety of applications such as musical sound synthesis, digital audio enhancement and improvement, multi-channel processing, acoustic beamforming and projection using speaker arrays, active acoustic conditioning, wavefield synthesis and holo-acoustics.
 
 [Course website](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2021&k_cf=225&k_corso_la=263&k_indir=MMI&codDescr=052820&lang=IT&semestre=2&anno_corso=1&idItemOfferta=155047&idRiga=267911)
 
