@@ -29,6 +29,9 @@ In the following section, you’ll find a detailed overview of my academic cours
 - [Energy Engineering Bachelor](#energy-engineering-bachelor---)
 
 
+- C1 English certificate - Cambridge Assessment
+
+
 <br>
 <br>
 <br>
