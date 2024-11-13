@@ -1,6 +1,6 @@
 ## Abstract
 
-Design and analysis of a spherical helmholtz resonator with particular focus on the analytical derivation of the desired diameter, acoustic input impedance and modal analysis. Electrical equivalent is also evaluted in *simulink*.
+Design and analysis of a **spherical helmholtz resonator** with particular focus on the analytical derivation of the desired diameter, **acoustic input impedance** and **modal analysis**. Electrical equivalent is also evaluted in *simulink*.
 
 
 <p align="center" width="100%">
