@@ -1,6 +1,6 @@
 ## Abstract
 
-**Finite difference method** modelling and simulation of a hammer-string piano configuration. Electrical equivalent of an acoustic guitar modelled with 20 resonances and string model. 
+*Finite difference method* modelling and simulation of a hammer-string piano configuration. Electrical equivalent of an acoustic guitar modelled with 20 resonances and string model. 
 
 
 <p align="center" width="100%">
