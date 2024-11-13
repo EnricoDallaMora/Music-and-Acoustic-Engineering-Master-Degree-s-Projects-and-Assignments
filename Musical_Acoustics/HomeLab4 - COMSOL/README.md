@@ -1,6 +1,6 @@
 ## Abstract
 
-This study aims at evaluating the **input impedance** and **polar plot of the directivity pattern** for the various components of a trumpet. This is achieved by simulating the acoustic behaviour of the simplified model in COMSOL Multiphysics, which relies on the Finite Element Method for computing the simulation.
+This study aims at evaluating the *input impedance* and *polar plot of the directivity pattern* for the various components of a trumpet. This is achieved by simulating the acoustic behaviour of the simplified model in COMSOL Multiphysics, which relies on the Finite Element Method for computing the simulation.
 
 
 
