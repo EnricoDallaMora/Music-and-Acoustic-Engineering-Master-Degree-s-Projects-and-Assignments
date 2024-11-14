@@ -5,15 +5,14 @@ Dynamics of a *1-degree of freedom* system and an *n-degrees of freedom* system.
 
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/user-attachments/assets/49d6499b-2676-4140-a00f-f7daf9707794">
+    <img width="50%" src="https://github.com/user-attachments/assets/a97d38a9-8a7e-4354-80d7-1b870cc91496">
 </p>
 
-<p align="center"><i>Figure 1: N-dof system analyzed.</i></p>
+<p align="center"><i>Figure 1: N-dof system under analysis.</i></p>
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/user-attachments/assets/8db9ab80-0c10-4754-b14d-4e2758590139">
+    <img width="50%" src="https://github.com/user-attachments/assets/af7c54f6-3b11-4d2e-a371-668729c5e810">
 </p>
 
 <p align="center"><i>Figure 2: FRF of the system in point A.</i></p>
-
 
