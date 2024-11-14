@@ -4,7 +4,7 @@ This repository showcases a collection of projects developed during my Master’
 Here's a list of the tools employed in the development:
 
 * Python
-* Matlab
+* Matlab, Simulink
 * COMSOL
 * Javascript, HTML, CSS
 * JUCE
