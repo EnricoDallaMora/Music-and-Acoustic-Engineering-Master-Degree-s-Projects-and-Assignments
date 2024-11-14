@@ -1,19 +1,20 @@
 ## Abstract
 
-This study aims at evaluating the *input impedance* and *polar plot of the directivity pattern* for the various components of a trumpet. This is achieved by simulating the acoustic behaviour of the simplified model in COMSOL Multiphysics, which relies on the Finite Element Method for computing the simulation.
+Recorder flute design and sound prediction. Finger holes positions matching the desired frequency are calculated. Finally, the input impedance of the instrument is determined using the model of the tube as a transmission line.
 
 
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/user-attachments/assets/49d6499b-2676-4140-a00f-f7daf9707794">
+    <img width="50%" src="https://github.com/user-attachments/assets/d68b596c-9e1d-4c28-8770-1817a9b6c95c">
 </p>
 
-<p align="center"><i>Figure 1: Geometry, pressure distribution and input impedance of the complete trumpet model.</i></p>
+<p align="center"><i>Figure 1: Geometry of the resonator finger holes.</i></p>
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/user-attachments/assets/8db9ab80-0c10-4754-b14d-4e2758590139">
+    <img width="80%" src="https://github.com/user-attachments/assets/1330bc80-f615-44dd-869b-f3cbadcc6c0e">
 </p>
 
-<p align="center"><i>Figure 1: Polar plot of the directivity pattern of the complete trumpet model.</i></p>
+<p align="center"><i>Figure 2: Equivalent circuit of the recorder flute under analysis.</i></p>
+
 
 
