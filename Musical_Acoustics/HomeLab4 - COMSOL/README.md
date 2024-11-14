@@ -14,6 +14,6 @@ This study aims at evaluating the *input impedance* and *polar plot of the direc
     <img width="50%" src="https://github.com/user-attachments/assets/8db9ab80-0c10-4754-b14d-4e2758590139">
 </p>
 
-<p align="center"><i>Figure 1: Polar plot of the directivity pattern of the complete trumpet model.</i></p>
+<p align="center"><i>Figure 2: Polar plot of the directivity pattern of the complete trumpet model.</i></p>
 
 
