@@ -274,6 +274,7 @@ Software Design: Object-oriented design and the Java language. Class specificati
 
 ### Courses:
 
+  - [Foundations of Computer Science](#foundations-of-computer-science)
   - [Numerical Calculus](#numerical-calculus)
   - [Physics](#physics)
   - [Chemistry Elements](#chemistry-elements)
@@ -296,6 +297,12 @@ Software Design: Object-oriented design and the Java language. Class specificati
   - [Signals and Systems](#signals-and-systems)
 
 
+
+<br>
+
+##
+## FOUNDATIONS OF COMPUTER SCIENCE
+Introduction to fundamental programming concepts, algorithm development, and computational problem-solving, focusing on applications in engineering. Topics include data structures, basic algorithms, software design principles and object oriented programming in Java.
 
 <br>
   
